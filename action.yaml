@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2020 The TTY Faker for GitHub Actions Authors
+# SPDX-License-Identifier: BSD-3-Clause AND LicenseRef-original
+
+name: TTY Faker for GitHub Actions
+author: The TTY Faker for GitHub Actions Authors
+description: TTY Faker for GitHub Actions
+branding:
+  icon: terminal
+  color: white
+runs:
+  using: node12
+  main: dist/index.js

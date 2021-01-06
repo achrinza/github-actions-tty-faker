@@ -1,0 +1,18 @@
+/*
+  SPDX-FileCopyrightText: 2020 The TTY Faker for GitHub Actions Authors
+  SPDX-License-Identifier: BSD-3-Clause
+*/
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "incremental": true,
+    "sourceMap": true,
+    "alwaysStrict": true,
+    "outDir": "./dist/",
+    "target": "es2018",
+    "moduleResolution": "node"
+  },
+  "include": ["./src/**/*.ts"]
+}

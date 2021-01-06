@@ -1,0 +1,5 @@
+#  SPDX-FileCopyrightText: 2020 The TTY Faker for GitHub Actions Authors
+#  SPDX-License-Identifier: MIT
+
+Yuri6037 (https://github.com/Yuri6037)
+Rifa Achrinza (https://github.com/achrinza)

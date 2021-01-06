@@ -1,0 +1,15 @@
+/*
+  SPDX-FileCopyrightText: 2020 The TTY Faker for GitHub Actions Authors
+  SPDX-License-Identifier: MIT
+*/
+
+{
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    80
+  ],
+  "editor.formatOnSave": true,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow": "/github/workflows/*.yaml"
+  }
+}
